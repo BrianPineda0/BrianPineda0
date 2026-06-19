@@ -115,6 +115,22 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ---
 
+## 🐍 Contribution Snake
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianPineda0/BrianPineda0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrianPineda0/BrianPineda0/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/BrianPineda0/BrianPineda0/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📍 Currently
