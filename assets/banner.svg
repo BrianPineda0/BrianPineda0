@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Brian Pineda — CS + EE @ Rutgers · AI-Native Builder">
+  <defs>
+  <style>@font-face{font-family:'GeistEmbed';font-style:normal;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAQcAA4AAAAAB2QAAAPLAAHMzQAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmAAbBEICoUYhDkBNgIkAzALGgAEIAWDOgcgG/YFSB4FblsDz+H0HNXTyhFE6FIYQbHf696FAGRcFCsAGM/CfR0dYVLSNQpofOsjZG3fD3n6L2mdGZ3Qpsg6OB1Za870Ddz+acLxEzcBS7kTggeggS+duKZ+NP29/Y0SZEITn0hUaVu2/UwfbBUWJZJA42EDw8yt4WINqYEwLI66RET8dTMC9YCUQqVQrUYI1OoXBVktq2kBtnIoBARqTUqGMvy8bk19nRBCgpaXpxt9ABXkM6oEsF7ziSsQBwlFPmx2tCergSMwjCr7/P8PKF9EmMCdPLvzCYZxkShDO5pAO7oToJUPmjSM1MDExqUTVQjGrM/gPHbNMUcctM/ugsiEKNSEqhfpBqjxK4gmoD4iGK85BYXiKKKJw8E4sTX+9cFV9IBGOsbwXD8NpamW6WocV42tn0WWznC5aNa/Uh5+KMMzW9fNIEtnFYql3HUt8tlZTMqUdmIYvJyAGTNRQRem5HQa0jIFJZOqVc3l8BGMzpU/qzuZ1jl3WtOmQf3r+KVM0To1pcaOTXhqDGNg9HC3XmeikLW0r+bEqeOTGAbcvwTyGsFg7UvAivVaa1F1XRmzlalWVVnWGZcePDwni0xNTS9KzpkzslsqSxPwSUHmblj7ErFky/z29i0Llqz42j8/r5ggiGJJ3nx4hrU4akrLlTVy3wsxLk2zV80uppdiido1Zw7VcTv4i7e3w/TSO2Ux9nBAjkHMs2eVFGeHzQ2t8CTmAepWzTJioVyescBcIstuElT82vVlM1rnluMMSprd3NiU3STNyFfUVheoQFzXNKeUXNDaUrxwTmlTQ39p0VJ11Fz8M1EXWLSLHbi9SjVZ/TT1LI4PwXL3rhAgu1ejSnkzP0Oh79CpdiUVxZbiuKi0KAnI7k009/cJkWiBqPBaHh/iT+fsnwPoJBYq1fVCYQH4i04IxK/fklXOfwbvvH9sb9o7eDtrbwbg7fzkxf9ZaJzYcgKiUoLgHzhrbgjieerGztKrPpWQnI9hLY9kYRMk5DxAx0aoQppMCxFnPV4JMwG5xxMfrRiCbFYuUOUMTZRzgE/gLg21PklTtc/SMrPuSMu1eyGtcOTbYZXaowZkunSbi+Li4NSHR0wYKQJPCwRtueVsXHqJzAaULm5oseyZxfr1cbqJoiI8yZ2UZuoGtTlwOAfXtno/MwGLLh1wA2woFjbtph8yis+uS6c+gmZuygy/JXVpZyUikEVIKJdcE5kauaydb+0Y54FykLK4hnXzOlp4C0TsTKuZuszimkidbAO0MkDi0SJSfDZmUoSUCTw0RVGx5gA=) format('woff2');}</style>
+  
+    <!-- brand gradient (monogram + underline) -->
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff"/>
+      <stop offset="48%" stop-color="#6d5bd0"/>
+      <stop offset="100%" stop-color="#1eb6a0"/>
+    </linearGradient>
+    <!-- page canvas wash -->
+    <linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fd"/>
+    </linearGradient>
+    <!-- top-lit glass rim -->
+    <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="9%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="48%" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <!-- inset top highlight -->
+    <linearGradient id="topglow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="28%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <!-- diagonal shine band -->
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="38%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="62%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <!-- faint blue corner washes (.canvas-tint) -->
+    <radialGradient id="washTR" cx="80%" cy="-8%" r="75%">
+      <stop offset="0%" stop-color="#7891ff" stop-opacity="0.10"/>
+      <stop offset="60%" stop-color="#7891ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="washBL" cx="12%" cy="108%" r="70%">
+      <stop offset="0%" stop-color="#78a0ff" stop-opacity="0.08"/>
+      <stop offset="60%" stop-color="#78a0ff" stop-opacity="0"/>
+    </radialGradient>
+    <!-- cursor-glow pool -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.3"/>
+      <stop offset="35%" stop-color="#0a84ff" stop-opacity="0.12"/>
+      <stop offset="70%" stop-color="#0a84ff" stop-opacity="0"/>
+    </radialGradient>
+    <!-- grid edge-fade mask -->
+    <radialGradient id="maskGrad" cx="50%" cy="42%" r="74%">
+      <stop offset="46%" stop-color="#ffffff"/>
+      <stop offset="73%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="97%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="edgefade"><rect x="0" y="0" width="1280" height="360" fill="url(#maskGrad)"/></mask>
+
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="60"/></filter>
+
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#4a5670" stroke-opacity="0.17" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="round"><rect x="3" y="3" width="1274" height="354" rx="30"/></clipPath>
+    <clipPath id="monoClip"><rect x="318" y="120" width="120" height="120" rx="30"/></clipPath>
+  </defs>
+
+  <!-- ===== ONE big glass panel ===== -->
+  <g clip-path="url(#round)">
+    <!-- canvas -->
+    <rect x="0" y="0" width="1280" height="360" fill="url(#canvas)"/>
+    <!-- aurora blobs: pastel, translate + scale like animate-aurora-* -->
+    <g filter="url(#soft)">
+      <g transform="translate(190,80)"><circle r="155" fill="#7cb6ff" opacity="0.62">
+        <animateTransform attributeName="transform" type="scale" values="1;1.12;1" dur="18s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;18 26;0 0" dur="18s" repeatCount="indefinite" additive="sum"/>
+      </circle></g>
+      <g transform="translate(1095,72)"><circle r="172" fill="#c9a9ff" opacity="0.56">
+        <animateTransform attributeName="transform" type="scale" values="1;1.08;1" dur="22s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;-22 18;0 0" dur="22s" repeatCount="indefinite" additive="sum"/>
+      </circle></g>
+      <g transform="translate(960,360)"><circle r="165" fill="#7ff0dc" opacity="0.5">
+        <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="26s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;-16 -22;0 0" dur="26s" repeatCount="indefinite" additive="sum"/>
+      </circle></g>
+      <g transform="translate(330,355)"><circle r="150" fill="#ffd9a8" opacity="0.42">
+        <animateTransform attributeName="transform" type="scale" values="1;1.1;1" dur="24s" repeatCount="indefinite" additive="sum"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0;20 -16;0 0" dur="24s" repeatCount="indefinite" additive="sum"/>
+      </circle></g>
+    </g>
+    <!-- faint grid + corner washes -->
+    <rect x="0" y="0" width="1280" height="360" fill="url(#grid)" mask="url(#edgefade)"/>
+    <rect x="0" y="0" width="1280" height="360" fill="url(#washTR)"/>
+    <rect x="0" y="0" width="1280" height="360" fill="url(#washBL)"/>
+
+    <!-- frosted glass film over the WHOLE panel (light, so blobs glow through) -->
+    <rect x="0" y="0" width="1280" height="360" fill="#ffffff" fill-opacity="0.3"/>
+    <rect x="0" y="0" width="1280" height="360" fill="url(#topglow)"/>
+    <ellipse cx="640" cy="190" rx="360" ry="160" fill="url(#glow)"/>
+
+    <!-- full-width shine sweep -->
+    <g transform="skewX(-18)">
+      <rect x="0" y="-40" width="240" height="440" fill="url(#shine)">
+        <animateTransform attributeName="transform" type="translate" values="-360 0;-360 0;1520 0;1520 0" keyTimes="0;0.5;0.82;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- inner glass card wrapping the logo + name -->
+    <rect x="266" y="84" width="748" height="192" rx="32" fill="#ffffff" fill-opacity="0.28"/>
+    <rect x="266" y="84" width="748" height="192" rx="32" fill="none" stroke="#c3c9d6" stroke-width="1.4"/>
+    <rect x="266" y="84" width="748" height="192" rx="32" fill="none" stroke="url(#rim)" stroke-width="1.6"/>
+
+    <!-- gradient monogram (floats) + sheen -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6s" repeatCount="indefinite"/>
+      <rect x="318" y="120" width="120" height="120" rx="30" fill="url(#brand)"/>
+      <g clip-path="url(#monoClip)">
+        <g transform="skewX(-18)">
+          <rect x="292" y="106" width="72" height="150" fill="url(#shine)">
+            <animateTransform attributeName="transform" type="translate" values="0 0;0 0;240 0;240 0" keyTimes="0;0.55;0.85;1" dur="6s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <text x="378" y="206" text-anchor="middle" dominant-baseline="alphabetic" font-family="'GeistEmbed', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" fill="#ffffff">B</text>
+    </g>
+
+    <!-- name + tagline (bigger) -->
+    <text x="472" y="182" font-family="'GeistEmbed', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="82" font-weight="700" fill="#1d1d1f" letter-spacing="-2">Brian Pineda</text>
+    <text x="474" y="220" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" font-weight="500" fill="#6e6e73">CS + EE @ Rutgers · AI-Native Builder</text>
+    <rect x="474" y="230" width="190" height="5" rx="2.5" fill="url(#brand)"/>
+
+    <!-- visible glass hairline border + top-lit rim highlight -->
+    <rect x="5" y="5" width="1270" height="350" rx="28" fill="none" stroke="#c3c9d6" stroke-width="1.6"/>
+    <rect x="5" y="5" width="1270" height="350" rx="28" fill="none" stroke="url(#rim)" stroke-width="2"/>
+  </g>
+</svg>

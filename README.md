@@ -1,25 +1,32 @@
 <div align="center">
-  
-<!-- BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Brian%20Pineda&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%2B%20EE%20%40%20Rutgers%20%C2%B7%20AI-Native%20Builder&descSize=18&descAlignY=60&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Brian%20Pineda&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%2B%20EE%20%40%20Rutgers%20%C2%B7%20AI-Native%20Builder&descSize=18&descAlignY=60&descAlign=50" alt="banner"/>
-</picture>
+
+<!-- CUSTOM BANNER — drawn to match brianepineda.com (aurora blobs + glass nameplate + gradient monogram) -->
+<img src="assets/banner.svg" width="100%" alt="Brian Pineda — CS + EE @ Rutgers · AI-Native Builder"/>
+
+<!-- ANIMATED TYPING SUBTITLE -->
+<a href="https://brianepineda.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&size=25&duration=2600&pause=900&color=0A84FF&center=true&vCenter=true&width=720&height=50&lines=CS+%2B+EE+%40+Rutgers+University;AI-Native+Full-Stack+Builder;TypeScript+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+FastAPI" alt="What I do"/>
+</a>
 
 <p>
-  <a href="https://linkedin.com/in/brianepineda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:brian.pineda.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=BrianPineda0&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS"/>
+  <a href="https://brianepineda.com"><img src="https://img.shields.io/badge/Portfolio-0a84ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/brianepineda"><img src="https://img.shields.io/badge/LinkedIn-6d5bd0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:brian.pineda.work@gmail.com"><img src="https://img.shields.io/badge/Email-1eb6a0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=BrianPineda0&style=for-the-badge&color=0a84ff&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
 
 > `Computer Science` + `Electrical Engineering` @ **Rutgers University** · Dean's List · 3.8 GPA  
 > I build full-stack products with an AI-native workflow — TypeScript and Next.js on the front, Python and FastAPI on the back, PostgreSQL underneath. Comfortable shipping fast with Claude Code, Codex, Cursor, and Gemini CLI driving the loop.
+>
+> 🌐 **Live portfolio → [brianepineda.com](https://brianepineda.com)**
 
 ---
 
 ## 🚀 What I'm Building
+
+---
 
 ### 🧠 GenCost — LLM Routing Platform
 > **Next.js · React · FastAPI · PostgreSQL · Claude** — *AI Tinkerers × ElevenLabs Hackathon (NYC)*  
@@ -44,6 +51,8 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 ---
 
 ## 🛠️ Stack
+
+---
 
 <div align="center">
 
@@ -87,17 +96,21 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrianPineda0&theme=tokyonight" />
-</div>
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrianPineda0&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrianPineda0&theme=tokyonight" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrianPineda0&theme=tokyonight&utcOffset=-5" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrianPineda0&show_icons=true&include_all_commits=true&count_private=true&border_color=d9d9e0&border_radius=18&bg_color=ffffff&title_color=0a84ff&icon_color=1eb6a0&text_color=6e6e73&hide_title=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianPineda0&layout=compact&langs_count=8&border_color=d9d9e0&border_radius=18&bg_color=ffffff&title_color=0a84ff&text_color=6e6e73" alt="Top languages"/>
+
+<br/>
+
+<img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrianPineda0&bg_color=ffffff&color=1d1d1f&line=0a84ff&point=6d5bd0&area=true&area_color=0a84ff&title_color=0a84ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+
+<br/>
+
+<img width="84%" src="https://streak-stats.demolab.com/?user=BrianPineda0&hide_border=true&background=ffffff&border=d9d9e0&stroke=d9d9e0&ring=0a84ff&fire=f5a623&currStreakLabel=6d5bd0&sideLabels=6e6e73&dates=6e6e73&currStreakNum=1d1d1f&sideNums=1d1d1f&dayLabels=6e6e73" alt="Contribution streak"/>
+
 </div>
 
 ---
@@ -105,9 +118,6 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 <div align="center">
 
 ### 📍 Currently
-**B.S. CS + EE @ Rutgers University** · *Expected May 2029* · GPA 3.8 · Dean's List  
-PR Chair @ Mexican American Student Association (MASA)
-
-*Open to Summer 2026 internships in software engineering and AI/ML.*
+**B.S. CS + EE @ Rutgers University** · *Expected May 2029* · GPA 3.8 · Dean's List
 
 </div>
