@@ -115,10 +115,6 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ---
 
-## 🐍 Contribution Snake
-
----
-
 <div align="center">
 
 <picture>
