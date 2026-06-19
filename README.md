@@ -7,7 +7,7 @@
 </picture>
 
 <p>
-  <a href="https://linkedin.com/in/brian-pineda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/brianepineda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:brian.pineda.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=BrianPineda0&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS"/>
 </p>
