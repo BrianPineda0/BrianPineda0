@@ -4,14 +4,14 @@
 <img src="assets/banner.svg" width="100%" alt="Brian Pineda — CS + EE @ Rutgers · AI-Native Builder"/>
 
 <!-- ANIMATED TYPING SUBTITLE -->
-<a href="https://brianepineda.com">
+<a href="https://brianepineda.com" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&size=25&duration=2600&pause=900&color=0A84FF&center=true&vCenter=true&width=720&height=50&lines=CS+%2B+EE+%40+Rutgers+University;AI-Native+Full-Stack+Builder;TypeScript+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+FastAPI" alt="What I do"/>
 </a>
 
 <p>
-  <a href="https://brianepineda.com"><img src="https://img.shields.io/badge/Portfolio-0a84ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/brianepineda"><img src="https://img.shields.io/badge/LinkedIn-6d5bd0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:brian.pineda.work@gmail.com"><img src="https://img.shields.io/badge/Email-1eb6a0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://brianepineda.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Portfolio-brianepineda.com-0a84ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1d1d1f"/></a>
+  <a href="https://linkedin.com/in/brianepineda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-6d5bd0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:brian.pineda.work@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-1eb6a0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=BrianPineda0&style=for-the-badge&color=0a84ff&label=PROFILE+VIEWS"/>
 </p>
 
@@ -19,8 +19,6 @@
 
 > `Computer Science` + `Electrical Engineering` @ **Rutgers University** · Dean's List · 3.8 GPA  
 > I build full-stack products with an AI-native workflow — TypeScript and Next.js on the front, Python and FastAPI on the back, PostgreSQL underneath. Comfortable shipping fast with Claude Code, Codex, Cursor, and Gemini CLI driving the loop.
->
-> 🌐 **Live portfolio → [brianepineda.com](https://brianepineda.com)**
 
 ---
 
