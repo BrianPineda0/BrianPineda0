@@ -26,20 +26,20 @@
 
 ---
 
+### 🏋️ [FlexMore - On-Device Form Coach](https://flexmore.vercel.app)
+> **TypeScript · React · MediaPipe · Vite · Supabase · Claude Code** - *Live at [flexmore.vercel.app](https://flexmore.vercel.app)*  
+
+Hands-free webcam form coach that runs **entirely on-device** - no video ever leaves the browser. MediaPipe pose estimation plus angle math count reps in real time, speak the count aloud, and grade range of motion, with a per-rep breakdown afterward. A deterministic CV pipeline does the measuring; the LLM only phrases the coaching.
+
 ### 🧠 GenCost — LLM Routing Platform
 > **Next.js · React · FastAPI · PostgreSQL · Claude** — *AI Tinkerers × ElevenLabs Hackathon (NYC)*  
 
 Smart router that picks the optimal LLM per request across **6 providers** (OpenRouter, DeepSeek, Grok, ElevenLabs, fal.ai, Google) for real-time cost and quality optimization. **20+ FastAPI endpoints** behind a Next.js/React dashboard with live cost tickers, charts, and interactive panels. Shipped on a 4-person team.
 
-### 📈 PC Hardware Price Predictor
-> **Python · SQL · SQLite · Pandas · Claude Code**  
+### 📈 [PC Hardware Price Predictor](https://pc-forecaster.vercel.app/)
+> **Python · SQL · SQLite · Pandas · Claude Code** - *Live at [pc-forecaster.vercel.app](https://pc-forecaster.vercel.app/)*  
 
 A **5-stage data pipeline** turning 9,497 raw scraped records into a normalized SQLite database (3 tables, 75K+ rows). Cross-source matching for **2,106 components** using composite-key logic, with validation at every stage. Driven end-to-end through Claude Code with structured `CLAUDE.md` and `AGENTS.md` context files for full reproducibility.
-
-### 🌐 MASA Rutgers Website
-> **JavaScript · Firebase · Firestore · Cursor**  
-
-Production web app for the **Mexican American Student Association** at Rutgers. Real-time forum, event calendar, and gallery — deployed via GitHub Pages and used by the org's membership. **10+ production deployments** driven by stakeholder feedback.
 
 ### 📱 Android Photos App
 > **Java · Android Studio**  
