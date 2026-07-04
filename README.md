@@ -26,8 +26,8 @@
 
 ---
 
-### 🏋️ [FlexMore - On-Device Form Coach](https://flexmore.vercel.app)
-> **TypeScript · React · MediaPipe · Vite · Supabase · Claude Code** - *Live at [flexmore.vercel.app](https://flexmore.vercel.app)*  
+### 🏋️ [FlexMore - On-Device Form Coach](https://flex-more.vercel.app)
+> **TypeScript · React · MediaPipe · Vite · Supabase · Claude Code** - *Live at [flex-more.vercel.app](https://flex-more.vercel.app)*  
 
 Hands-free webcam form coach that runs **entirely on-device** - no video ever leaves the browser. MediaPipe pose estimation plus angle math count reps in real time, speak the count aloud, and grade range of motion, with a per-rep breakdown afterward. A deterministic CV pipeline does the measuring; the LLM only phrases the coaching.
 
