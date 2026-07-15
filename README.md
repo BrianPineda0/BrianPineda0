@@ -52,10 +52,9 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ---
 
-<img src="assets/361firm.png" width="108" align="left" alt="361Firm logo" hspace="16" vspace="4"/>
+<img src="assets/361firm.png" width="150" align="left" alt="361Firm logo" hspace="18" vspace="2"/>
 
-**Software Engineering Intern** &nbsp;·&nbsp; [361Firm](https://www.361firm.com)  
-<sub>Remote · May 2026 - Present</sub>
+### Software Engineering Intern &nbsp;·&nbsp; [361Firm](https://www.361firm.com) &nbsp;·&nbsp; <sub>Remote · May 2026 - Present</sub>
 
 - Migrated the data layer from the **Airtable REST API** to **Supabase (PostgreSQL)**
 - Hardened **6 Next.js REST write routes** with a **20-test** suite
