@@ -52,7 +52,7 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ---
 
-<img src="assets/361firm.png" width="150" align="left" alt="361Firm logo" hspace="18" vspace="2"/>
+<img src="assets/361firm.png" width="168" align="left" alt="361Firm logo" hspace="18" vspace="2"/>
 
 ### Software Engineering Intern &nbsp;·&nbsp; [361Firm](https://www.361firm.com) &nbsp;·&nbsp; <sub>Remote · May 2026 - Present</sub>
 
