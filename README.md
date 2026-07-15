@@ -48,6 +48,30 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ---
 
+## 💼 Experience
+
+---
+
+<table width="100%">
+<tr>
+<td width="210" align="center" valign="middle">
+  <img src="assets/361firm.png" width="180" alt="361Firm logo"/>
+</td>
+<td valign="middle">
+  <strong>Software Engineering Intern</strong> &nbsp;·&nbsp; <a href="https://www.361firm.com" target="_blank" rel="noopener noreferrer">361Firm</a><br/>
+  <sub>Remote &nbsp;·&nbsp; May 2026 - Present</sub>
+  <ul>
+    <li>Migrated the data layer from the <strong>Airtable REST API</strong> to <strong>Supabase (PostgreSQL)</strong></li>
+    <li>Hardened <strong>6 Next.js REST write routes</strong> with a <strong>20-test</strong> suite</li>
+    <li>Built <strong>JavaScript QR-code attendance</strong> for live investor events (<strong>26 tests</strong>)</li>
+    <li>Refactored a <strong>9,000-line React client</strong> and introduced its <strong>first automated tests (123 cases)</strong></li>
+  </ul>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Stack
 
 ---
