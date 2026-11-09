@@ -17,80 +17,88 @@
 
 </div>
 
+<br/>
+
 > `Computer Science` + `Electrical Engineering` @ **Rutgers University** · 3.8 GPA · Expected May 2028  
 > I build full-stack products with an AI-native workflow: TypeScript and Next.js on the front, Python and FastAPI on the back, PostgreSQL underneath. Comfortable shipping fast with Claude Code, Codex, Cursor, and Gemini CLI driving the loop.
 
----
+<br/>
 
 ## 🚀 What I'm Building
-
----
 
 ### 🏋️ [FlexMore - On-Device Form Coach](https://flex-more.vercel.app)
 > **TypeScript · React · MediaPipe · Vite · Supabase · Claude Code** - *Live at [flex-more.vercel.app](https://flex-more.vercel.app)*  
 
 Hands-free webcam form coach that runs **entirely on-device** - no video ever leaves the browser. MediaPipe pose estimation plus angle math count reps in real time, speak the count aloud, and grade range of motion, with a per-rep breakdown afterward. A deterministic CV pipeline does the measuring; the LLM only phrases the coaching.
 
+<br/>
+
 ### 🧠 GenCost - AI Cost Metering Platform
 > **Python · FastAPI · Next.js · Supabase** - *AI Tinkerers × ElevenLabs Hackathon (NYC)*
 
 A metering proxy and smart router that intercepts every generative-AI call across **6 providers**, logging cost and latency live. A cost-aware router sends each request to the cheapest model that meets its quality tier, with fallback chains. Shipped on a 4-person team.
+
+<br/>
 
 ### 📈 [PC Forecaster](https://pc-forecaster.vercel.app)
 > **Python · scikit-learn · Flask · SQLite · Pandas** - *Live at [pc-forecaster.vercel.app](https://pc-forecaster.vercel.app)*
 
 A live PC-parts price forecaster on Vercel using **Random Forest** models, forecasting prices at **R² 0.85 to 0.89**. A **5-stage Python pipeline** cleans **9,452 records** into a **71,000-row** monthly price history for training. Driven end-to-end through Claude Code with structured `CLAUDE.md` and `AGENTS.md` context files for full reproducibility.
 
----
+<br/>
 
 ## 💼 Experience
 
----
+<img src="assets/jnj.png" width="180" align="left" alt="Johnson & Johnson logo" hspace="18" vspace="4"/>
 
-<img src="assets/jnj.png" width="168" align="left" alt="Johnson & Johnson logo" hspace="18" vspace="2"/>
+**Software Engineering Intern** &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com)  
+<sub>Incoming · Hybrid, Spring House, PA · Jan - May 2027</sub>
 
-### Software Engineering Intern (Incoming) &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com) &nbsp;·&nbsp; <sub>Spring House, PA · Jan - May 2027</sub>
-
-- Incoming platform and cloud engineering co-op, working across **AWS**, **GenAI**, and **DevOps** tooling to build and integrate services
-
-<br clear="left"/>
-
-<img src="assets/361firm.png" width="168" align="left" alt="361Firm logo" hspace="18" vspace="2"/>
-
-### Software Engineering Intern &nbsp;·&nbsp; [361Firm](https://www.361firm.com) &nbsp;·&nbsp; <sub>New York · May - Sep 2026</sub>
-
-- Migrated the data layer from the **Airtable REST API** to **Supabase (PostgreSQL)**
-- Hardened **6 Next.js REST write routes** with a **20-test** suite
-- Built **JavaScript QR-code attendance** for live investor events (**26 tests**)
-- Refactored a **9,000-line React client** and introduced its **first automated tests (123 cases)**
+- Platform and cloud co-op across **AWS**, **GenAI**, and **DevOps** tooling
 
 <br clear="left"/>
+<br/>
 
-<img src="assets/verno.png" width="168" align="left" alt="Verno logo" hspace="18" vspace="2"/>
+<img src="assets/361firm.png" width="180" align="left" alt="361Firm logo" hspace="18" vspace="4"/>
 
-### Software Engineering Intern &nbsp;·&nbsp; Verno (YC F26) &nbsp;·&nbsp; <sub>Remote · Jul - Aug 2026</sub>
+**Software Engineering Intern** &nbsp;·&nbsp; [361Firm](https://www.361firm.com)  
+<sub>New York, NY · Part-time · May - Sep 2026</sub>
 
-- Built shape-editing tools in **Electron** and **TypeScript** that block invalid edits (**21 tests**)
-- Built a secure **CSV export** in **JavaScript** for customer data review (**19 tests**)
+- Cut requests per load from **251 to 26** by moving to **Supabase**
+- Hardened **6 Next.js REST routes** with server-side validation (**20 tests**)
+- Built **QR-code attendance** for live investor events (**26 tests**)
+- Refactored a **9,000-line React client** and added its first **123 tests**
+
+<br clear="left"/>
+<br/>
+
+<img src="assets/verno.png" width="180" align="left" alt="Verno logo" hspace="18" vspace="4"/>
+
+**Software Engineering Intern** &nbsp;·&nbsp; Verno (YC F26)  
+<sub>Remote · Part-time · Jul - Aug 2026</sub>
+
+- Built shape-editing tools in **Electron** and **TypeScript** (**21 tests**)
+- Built a secure **CSV export** for customer data review (**19 tests**)
 - Shipped a full-stack edit history in **React**, **Zustand**, and **Python**
 
 <br clear="left"/>
+<br/>
 
-<img src="assets/jukebox.png" width="168" align="left" alt="JukeBox logo" hspace="18" vspace="2"/>
+<img src="assets/jukebox.png" width="180" align="left" alt="JukeBox logo" hspace="18" vspace="4"/>
 
-### Software Engineering Intern &nbsp;·&nbsp; JukeBox &nbsp;·&nbsp; <sub>Remote · Jul - Aug 2026</sub>
+**Software Engineering Intern** &nbsp;·&nbsp; JukeBox  
+<sub>Remote · Part-time · Jul - Aug 2026</sub>
 
-- Built the concert rating tab in **React Native** and **TypeScript** via **Expo/EAS**
-- Cut API calls per repeat search from **2 to 1** with **Express**/**Node.js** caching
-- Modeled rating data in **MySQL** with SQL constraints and integration tests
+- Built the concert rating tab in **React Native** via **Expo/EAS**
+- Cut API calls per repeat search from **2 to 1** with **Node.js** caching
+- Modeled rating data in **MySQL** with constraints and integration tests
 
 <br clear="left"/>
+<br/>
 
----
+<br/>
 
 ## 🛠️ Stack
-
----
 
 <div align="center">
 
@@ -148,30 +156,15 @@ A live PC-parts price forecaster on Vercel using **Random Forest** models, forec
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Activity
 
----
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrianPineda0&show_icons=true&include_all_commits=true&count_private=true&border_color=d9d9e0&border_radius=18&bg_color=ffffff&title_color=0a84ff&icon_color=1eb6a0&text_color=6e6e73&hide_title=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianPineda0&layout=compact&langs_count=8&border_color=d9d9e0&border_radius=18&bg_color=ffffff&title_color=0a84ff&text_color=6e6e73" alt="Top languages"/>
-
-<br/>
-
-<img width="84%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrianPineda0&bg_color=ffffff&color=1d1d1f&line=0a84ff&point=6d5bd0&area=true&area_color=0a84ff&title_color=0a84ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-
-<br/>
 
 <img width="84%" src="https://streak-stats.demolab.com/?user=BrianPineda0&hide_border=true&background=ffffff&border=d9d9e0&stroke=d9d9e0&ring=0a84ff&fire=f5a623&currStreakLabel=6d5bd0&sideLabels=6e6e73&dates=6e6e73&currStreakNum=1d1d1f&sideNums=1d1d1f&dayLabels=6e6e73" alt="Contribution streak"/>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrianPineda0/BrianPineda0/output/github-snake-dark.svg">
@@ -181,7 +174,7 @@ A live PC-parts price forecaster on Vercel using **Random Forest** models, forec
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
