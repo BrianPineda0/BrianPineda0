@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CUSTOM BANNER — drawn to match brianepineda.com (aurora blobs + glass nameplate + gradient monogram) -->
-<img src="assets/banner.svg" width="100%" alt="Brian Pineda — CS + EE @ Rutgers · AI-Native Builder"/>
+<!-- CUSTOM BANNER - drawn to match brianepineda.com (aurora blobs + glass nameplate + gradient monogram) -->
+<img src="assets/banner.svg" width="100%" alt="Brian Pineda - CS + EE @ Rutgers · AI-Native Builder"/>
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://brianepineda.com" target="_blank" rel="noopener noreferrer">
@@ -17,8 +17,8 @@
 
 </div>
 
-> `Computer Science` + `Electrical Engineering` @ **Rutgers University** · Dean's List · 3.8 GPA  
-> I build full-stack products with an AI-native workflow — TypeScript and Next.js on the front, Python and FastAPI on the back, PostgreSQL underneath. Comfortable shipping fast with Claude Code, Codex, Cursor, and Gemini CLI driving the loop.
+> `Computer Science` + `Electrical Engineering` @ **Rutgers University** · 3.8 GPA · Expected May 2028  
+> I build full-stack products with an AI-native workflow: TypeScript and Next.js on the front, Python and FastAPI on the back, PostgreSQL underneath. Comfortable shipping fast with Claude Code, Codex, Cursor, and Gemini CLI driving the loop.
 
 ---
 
@@ -31,20 +31,15 @@
 
 Hands-free webcam form coach that runs **entirely on-device** - no video ever leaves the browser. MediaPipe pose estimation plus angle math count reps in real time, speak the count aloud, and grade range of motion, with a per-rep breakdown afterward. A deterministic CV pipeline does the measuring; the LLM only phrases the coaching.
 
-### 🧠 GenCost — LLM Routing Platform
-> **Next.js · React · FastAPI · PostgreSQL · Claude** — *AI Tinkerers × ElevenLabs Hackathon (NYC)*  
+### 🧠 GenCost - AI Cost Metering Platform
+> **Python · FastAPI · Next.js · Supabase** - *AI Tinkerers × ElevenLabs Hackathon (NYC)*
 
-Smart router that picks the optimal LLM per request across **6 providers** (OpenRouter, DeepSeek, Grok, ElevenLabs, fal.ai, Google) for real-time cost and quality optimization. **20+ FastAPI endpoints** behind a Next.js/React dashboard with live cost tickers, charts, and interactive panels. Shipped on a 4-person team.
+A metering proxy and smart router that intercepts every generative-AI call across **6 providers**, logging cost and latency live. A cost-aware router sends each request to the cheapest model that meets its quality tier, with fallback chains. Shipped on a 4-person team.
 
-### 📈 [PC Hardware Price Predictor](https://pc-forecaster-iota.vercel.app)
-> **Python · SQL · SQLite · Pandas · Claude Code** - *Live at [pc-forecaster-iota.vercel.app](https://pc-forecaster-iota.vercel.app)*  
+### 📈 [PC Forecaster](https://pc-forecaster.vercel.app)
+> **Python · scikit-learn · Flask · SQLite · Pandas** - *Live at [pc-forecaster.vercel.app](https://pc-forecaster.vercel.app)*
 
-A **5-stage data pipeline** turning 9,497 raw scraped records into a normalized SQLite database (3 tables, 75K+ rows). Cross-source matching for **2,106 components** using composite-key logic, with validation at every stage. Driven end-to-end through Claude Code with structured `CLAUDE.md` and `AGENTS.md` context files for full reproducibility.
-
-### 📱 Android Photos App
-> **Java · Android Studio**  
-
-Complete Android photo management app ported from a JavaFX desktop project. **4 OOP model classes** restructured with clean separation of concerns, **6 user-facing features**, tested across 3+ emulator configurations.
+A live PC-parts price forecaster on Vercel using **Random Forest** models, forecasting prices at **R² 0.85 to 0.89**. A **5-stage Python pipeline** cleans **9,452 records** into a **71,000-row** monthly price history for training. Driven end-to-end through Claude Code with structured `CLAUDE.md` and `AGENTS.md` context files for full reproducibility.
 
 ---
 
@@ -52,9 +47,17 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 ---
 
+<img src="assets/jnj.png" width="168" align="left" alt="Johnson & Johnson logo" hspace="18" vspace="2"/>
+
+### Software Engineering Intern (Incoming) &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com) &nbsp;·&nbsp; <sub>Spring House, PA · Jan - May 2027</sub>
+
+- Incoming platform and cloud engineering co-op, working across **AWS**, **GenAI**, and **DevOps** tooling to build and integrate services
+
+<br clear="left"/>
+
 <img src="assets/361firm.png" width="168" align="left" alt="361Firm logo" hspace="18" vspace="2"/>
 
-### Software Engineering Intern &nbsp;·&nbsp; [361Firm](https://www.361firm.com) &nbsp;·&nbsp; <sub>Remote · May 2026 - Present</sub>
+### Software Engineering Intern &nbsp;·&nbsp; [361Firm](https://www.361firm.com) &nbsp;·&nbsp; <sub>New York · May - Sep 2026</sub>
 
 - Migrated the data layer from the **Airtable REST API** to **Supabase (PostgreSQL)**
 - Hardened **6 Next.js REST write routes** with a **20-test** suite
@@ -65,20 +68,20 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 <img src="assets/verno.png" width="168" align="left" alt="Verno logo" hspace="18" vspace="2"/>
 
-### Software Engineering Intern &nbsp;·&nbsp; Verno (YC F26) &nbsp;·&nbsp; <sub>Remote, part-time · Jul 2026 - Aug 2026</sub>
+### Software Engineering Intern &nbsp;·&nbsp; Verno (YC F26) &nbsp;·&nbsp; <sub>Remote · Jul - Aug 2026</sub>
 
-- Built shape-editing tools in **Electron**, **TypeScript**, and **CSS** that stop invalid edits from saving (**21 tests**)
-- Engineered a secure **CSV export** in **JavaScript** so customers can review their data (**19 tests**)
-- Delivered a full-stack edit-history feature in **React**, **Zustand**, and **Python**
+- Built shape-editing tools in **Electron** and **TypeScript** that block invalid edits (**21 tests**)
+- Built a secure **CSV export** in **JavaScript** for customer data review (**19 tests**)
+- Shipped a full-stack edit history in **React**, **Zustand**, and **Python**
 
 <br clear="left"/>
 
 <img src="assets/jukebox.png" width="168" align="left" alt="JukeBox logo" hspace="18" vspace="2"/>
 
-### Software Engineering Intern &nbsp;·&nbsp; JukeBox &nbsp;·&nbsp; <sub>Remote, part-time · Jul 2026 - Aug 2026</sub>
+### Software Engineering Intern &nbsp;·&nbsp; JukeBox &nbsp;·&nbsp; <sub>Remote · Jul - Aug 2026</sub>
 
 - Built the concert rating tab in **React Native** and **TypeScript** via **Expo/EAS**
-- Cut external API calls per repeat search from **2 to 1** by caching in an **Express** and **Node.js** service
+- Cut API calls per repeat search from **2 to 1** with **Express**/**Node.js** caching
 - Modeled rating data in **MySQL** with SQL constraints and integration tests
 
 <br clear="left"/>
@@ -183,6 +186,6 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 <div align="center">
 
 ### 📍 Currently
-**B.S. CS + EE @ Rutgers University** · *Expected May 2029* · GPA 3.8 · Dean's List
+**B.S. CS + EE @ Rutgers University** · *Expected May 2028* · GPA 3.8
 
 </div>
