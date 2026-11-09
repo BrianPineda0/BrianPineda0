@@ -49,18 +49,14 @@ A live PC-parts price forecaster on Vercel using **Random Forest** models, forec
 
 ## 💼 Experience
 
-<img src="assets/jnj.png" width="52" align="left" alt="Johnson & Johnson logo" hspace="12" vspace="2"/>
-
-**Software Engineering Intern** &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com)  
+<img src="assets/jnj.png" width="52" align="left" alt="Johnson & Johnson logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com)  
 <sub>Incoming · Hybrid, Spring House, PA · Jan - May 2027</sub><br clear="left"/>
 
 - Platform and cloud co-op across **AWS**, **GenAI**, and **DevOps** tooling
 
 <br/>
 
-<img src="assets/361firm.png" width="52" align="left" alt="361Firm logo" hspace="12" vspace="2"/>
-
-**Software Engineering Intern** &nbsp;·&nbsp; [361Firm](https://www.361firm.com)  
+<img src="assets/361firm.png" width="52" align="left" alt="361Firm logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [361Firm](https://www.361firm.com)  
 <sub>New York, NY · Part-time · May - Sep 2026</sub><br clear="left"/>
 
 - Cut requests per load from **251 to 26** by moving to **Supabase**
@@ -70,9 +66,7 @@ A live PC-parts price forecaster on Vercel using **Random Forest** models, forec
 
 <br/>
 
-<img src="assets/verno.png" width="52" align="left" alt="Verno logo" hspace="12" vspace="2"/>
-
-**Software Engineering Intern** &nbsp;·&nbsp; [Verno (YC F26)](https://www.verno-ai.com)  
+<img src="assets/verno.png" width="52" align="left" alt="Verno logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [Verno (YC F26)](https://www.verno-ai.com)  
 <sub>Remote · Part-time · Jul - Aug 2026</sub><br clear="left"/>
 
 - Built shape-editing tools in **Electron** and **TypeScript** (**21 tests**)
@@ -81,9 +75,7 @@ A live PC-parts price forecaster on Vercel using **Random Forest** models, forec
 
 <br/>
 
-<img src="assets/jukebox.png" width="52" align="left" alt="JukeBox logo" hspace="12" vspace="2"/>
-
-**Software Engineering Intern** &nbsp;·&nbsp; [JukeBox](https://www.jukebox.am)  
+<img src="assets/jukebox.png" width="52" align="left" alt="JukeBox logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [JukeBox](https://www.jukebox.am)  
 <sub>Remote · Part-time · Jul - Aug 2026</sub><br clear="left"/>
 
 - Built the concert rating tab in **React Native** via **Expo/EAS**
