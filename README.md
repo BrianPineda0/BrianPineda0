@@ -63,6 +63,26 @@ Complete Android photo management app ported from a JavaFX desktop project. **4 
 
 <br clear="left"/>
 
+<img src="assets/verno.png" width="168" align="left" alt="Verno logo" hspace="18" vspace="2"/>
+
+### Software Engineering Intern &nbsp;·&nbsp; Verno (YC F26) &nbsp;·&nbsp; <sub>Remote, part-time · Jul 2026 - Aug 2026</sub>
+
+- Built shape-editing tools in **Electron**, **TypeScript**, and **CSS** that stop invalid edits from saving (**21 tests**)
+- Engineered a secure **CSV export** in **JavaScript** so customers can review their data (**19 tests**)
+- Delivered a full-stack edit-history feature in **React**, **Zustand**, and **Python**
+
+<br clear="left"/>
+
+<img src="assets/jukebox.png" width="168" align="left" alt="JukeBox logo" hspace="18" vspace="2"/>
+
+### Software Engineering Intern &nbsp;·&nbsp; JukeBox &nbsp;·&nbsp; <sub>Remote, part-time · Jul 2026 - Aug 2026</sub>
+
+- Built the concert rating tab in **React Native** and **TypeScript** via **Expo/EAS**
+- Cut external API calls per repeat search from **2 to 1** by caching in an **Express** and **Node.js** service
+- Modeled rating data in **MySQL** with SQL constraints and integration tests
+
+<br clear="left"/>
+
 ---
 
 ## 🛠️ Stack
