@@ -49,39 +49,43 @@ A live PC-parts price forecaster on Vercel using **Random Forest** models, forec
 
 ## 💼 Experience
 
-<img src="assets/jnj.png" width="52" align="left" alt="Johnson & Johnson logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com)  
-<sub>Incoming · Hybrid, Spring House, PA · Jan - May 2027</sub><br clear="left"/>
+<img src="assets/jnj-row.png" width="110" align="left" alt="Johnson & Johnson logo" hspace="16"/> **Software Engineering Intern** &nbsp;·&nbsp; [Johnson & Johnson](https://www.jnj.com)  
+<sub>Incoming · Hybrid, Spring House, PA · Jan - May 2027</sub>
 
 - Platform and cloud co-op across **AWS**, **GenAI**, and **DevOps** tooling
 
+<br clear="left"/>
 <br/>
 
-<img src="assets/361firm.png" width="52" align="left" alt="361Firm logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [361Firm](https://www.361firm.com)  
-<sub>New York, NY · Part-time · May - Sep 2026</sub><br clear="left"/>
+<img src="assets/361firm-row.png" width="110" align="left" alt="361Firm logo" hspace="16"/> **Software Engineering Intern** &nbsp;·&nbsp; [361Firm](https://www.361firm.com)  
+<sub>New York, NY · Part-time · May - Sep 2026</sub>
 
 - Cut requests per load from **251 to 26** by moving to **Supabase**
 - Hardened **6 Next.js REST routes** with server-side validation (**20 tests**)
 - Built **QR-code attendance** for live investor events (**26 tests**)
 - Refactored a **9,000-line React client** and added its first **123 tests**
 
+<br clear="left"/>
 <br/>
 
-<img src="assets/verno.png" width="52" align="left" alt="Verno logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [Verno (YC F26)](https://www.verno-ai.com)  
-<sub>Remote · Part-time · Jul - Aug 2026</sub><br clear="left"/>
+<img src="assets/verno-row.png" width="110" align="left" alt="Verno logo" hspace="16"/> **Software Engineering Intern** &nbsp;·&nbsp; [Verno (YC F26)](https://www.verno-ai.com)  
+<sub>Remote · Part-time · Jul - Aug 2026</sub>
 
 - Built shape-editing tools in **Electron** and **TypeScript** (**21 tests**)
 - Built a secure **CSV export** for customer data review (**19 tests**)
 - Shipped a full-stack edit history in **React**, **Zustand**, and **Python**
 
+<br clear="left"/>
 <br/>
 
-<img src="assets/jukebox.png" width="52" align="left" alt="JukeBox logo" hspace="12" vspace="2"/> **Software Engineering Intern** &nbsp;·&nbsp; [JukeBox](https://www.jukebox.am)  
-<sub>Remote · Part-time · Jul - Aug 2026</sub><br clear="left"/>
+<img src="assets/jukebox-row.png" width="110" align="left" alt="JukeBox logo" hspace="16"/> **Software Engineering Intern** &nbsp;·&nbsp; [JukeBox](https://www.jukebox.am)  
+<sub>Remote · Part-time · Jul - Aug 2026</sub>
 
 - Built the concert rating tab in **React Native** via **Expo/EAS**
 - Cut API calls per repeat search from **2 to 1** with **Node.js** caching
 - Modeled rating data in **MySQL** with constraints and integration tests
 
+<br clear="left"/>
 <br/>
 
 <br/>
